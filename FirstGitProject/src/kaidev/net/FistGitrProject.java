@@ -9,6 +9,7 @@ public class FistGitrProject {
 		System.out.print("First git project!");
 		//Hey wrong user on github
 		System.out.print("First edit by a other github user!");
+		//Test edit
 	}
 
 }
